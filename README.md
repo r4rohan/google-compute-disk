@@ -1,5 +1,5 @@
-# google-compute-disk
-Terraform Module for Google Compute Disk and Attached Disk with GCE VM
+# Google Compute Disk
+Terraform Module for Google Compute Disk and Attachment with GCE VM
 
 ```
 resource "random_string" "launch_id" {
