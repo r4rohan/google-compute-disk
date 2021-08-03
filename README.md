@@ -22,3 +22,4 @@ module "gce_disk" {
   compute_disk_image = "debian-9-stretch-v20200805"
 }
 ```
+_Contributions are most welcome_
